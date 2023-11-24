@@ -2,7 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&text=Munkyung%20Kim)
 
-  #### Welcome to my Github
+  ### Welcome to my Github
   I'm Munkyung Kim, studying Reinforcement Learning/Computer Vision/Robotics
   </br>
   ### Skills
