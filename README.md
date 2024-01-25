@@ -2,8 +2,10 @@
 
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&text=Munkyung%20Kim)
 
-  ### Welcome to my Github
-  I'm Munkyung Kim, studying Reinforcement Learning/Computer Vision/Robotics
+  ### Welcome
+  Munkyung Kim
+  Mechanical Engineering @ Korea University, Seoul
+  Future Automotive Mobility @ Seoul National University, Seoul
   </br>
   ### Skills
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
